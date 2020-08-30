@@ -8,7 +8,7 @@
 
 ### Pull Request Link:
 
-https://github.com/azez-alhoot/chess-board/pull/1
+https://github.com/azez-alhoot/chess-board/pull/2
 
 ### Note:
 
